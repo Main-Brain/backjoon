@@ -48,12 +48,6 @@
 # ***************************
 
 # 내 코드
-n = int(input())
-fibonacci = [0, 1]
-for i in range(1, n):
-    fibonacci.append(fibonacci[i-1] + fibonacci[i])
-
-print(fibonacci[n])
 
 # 1등 코드
 
